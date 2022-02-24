@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "my-life-tech",
+    "slug": "my-life-tech",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "my-life-tech"
+}
